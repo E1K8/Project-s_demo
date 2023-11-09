@@ -6,30 +6,30 @@
 
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/250cae62-954c-4c2d-8f27-5f5e6e16bd08)
 
-Аркадная игра (Windows) в которой надо зарабатывать очки сбивая противников. Разработана на Python (библиотека Pygame).
+Аркадная игра Windows в которой надо зарабатывать очки сбивая противников. Разработана на Python библиотека Pygame.
 
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/2b08fa9a-e026-4553-bcf8-441b35e2a86e)
 
-Игра (Windows) в которой надо уклоняться от обьектов и зарабатывать очки, чем больше времени продержаться тем больше очков. Разработана на Python (библиотека Pygame).
+Игра Windows в которой надо уклоняться от обьектов и зарабатывать очки, чем больше времени продержаться тем больше очков. Разработана на Python библиотека Pygame.
 
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/518b4a59-4af2-4ad0-9e37-d8e43e410223)
 
-Игра (Windows) в которой надо ловить фрукты корзиной, чем больше поймали тем больше очков получили. Разработана на Python (библиотека Pygame).
+Игра Windows в которой надо ловить фрукты корзиной, чем больше поймали тем больше очков получили. Разработана на Python библиотека Pygame.
 
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/aca5b73f-72f3-4623-a6f3-c9b9faa8368e)
-Калькулятор. Разработан на Python (библиотека Tkinter).
+Калькулятор. Разработан на Python библиотека Tkinter.
 
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/63de8ef9-6f95-447d-828b-d6df0251917c)
-Генератор (Windows) комбинаций перестоновок символов заданной длинны. Разработан на Python (библиотека Tkinter).
+Генератор Windows комбинаций перестоновок символов заданной длинны. Разработан на Python, библиотека Tkinter.
 
 
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/bd466fad-ba1a-4802-9b81-52fb9a07cb6e)
-Погодный виджет (Windows). Создан на C# (фреймворк WPF, библиотека Newtonsoft.Json).
+Погодный виджет Windows. Создан на C#, фреймворк WPF, библиотека Newtonsoft.Json.
 
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/d9a653b1-cd1e-4936-a60d-983d8db38c27)
 
-Аркадная игра (Android) создонная на unity.
+Аркадная игра Android. Разработана на unity.
 
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/79b6a379-9b38-4881-8f24-df6ff744953a)
 
-Квест на unity (Windows), пока находится в разработке.
+Квест Windows. В разработке на unity.
