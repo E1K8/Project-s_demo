@@ -26,7 +26,8 @@
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/bd466fad-ba1a-4802-9b81-52fb9a07cb6e)
 Погодный виджет Windows. Создан на C#, фреймворк WPF, библиотека Newtonsoft.Json.
 
-![image](https://github.com/E1K8/Project-s_demo/assets/142608556/d9a653b1-cd1e-4936-a60d-983d8db38c27)
+![image](https://github.com/E1K8/Project-s_demo/assets/142608556/e8e97877-3c0d-4baa-b673-9fa45e4a828e)
+
 
 Аркадная игра Android. Разработана на unity.
 
