@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/4fca1684-fdc5-41e1-ad46-f2547d00be1a)
+![image](https://github.com/user-attachments/assets/bc0d3075-7579-473d-b72f-964e6feb1c1c)
+
+Приложение для голосовго управвления дронами
+
 ![image](https://github.com/user-attachments/assets/73823278-0a37-4326-8932-c75c4742243b)
 
 Приложения для распознований моделий самолётов
