@@ -1,3 +1,7 @@
+![Uploading image.png…]()
+Приложения для распознований моделий самолётов
+
+
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/0cf7def7-865a-4825-bfb2-14d43aa24694)
 Страница регистрации В фото галереи
 ![image](https://github.com/E1K8/Project-s_demo/assets/142608556/73bd7eb3-75e7-4871-9152-0a4f378fdcb7)
