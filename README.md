@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/73823278-0a37-4326-8932-c75c4742243b)
 
 Приложения для распознований моделий самолётов
 
